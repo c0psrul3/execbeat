@@ -1,7 +1,7 @@
 package main
 
 import (
-	execbeat "github.com/christiangalsterer/execbeat/beater"
+	execbeat "github.com/c0psrul3/execbeat/beater"
 	"github.com/elastic/beats/libbeat/beat"
 	"os"
 )
